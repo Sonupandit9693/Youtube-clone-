@@ -1,5 +1,5 @@
 
-project link : youtube-clone-by-sonukumar.netlify.app
+project link : https://youtube-clone-by-sonukumar.netlify.app/
 
 This clone has some feeatures of youtube 
 Anyone can must checkout ti really help and improvement of the project.
