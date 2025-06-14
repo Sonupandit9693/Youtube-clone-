@@ -71,7 +71,7 @@ This project can be deployed on platforms like **Vercel**, **Netlify**, or **Git
 
 ## Demo
 
-[Live Demo](#) <!-- Replace with your live demo link if available -->
+[Live Demo](https://youtube-clone-by-sonukumar.netlify.app/) <!-- Replace with your live demo link if available -->
 
 ## Author
 
